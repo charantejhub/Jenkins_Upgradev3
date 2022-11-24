@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Test 1: run! Hello World! Welcome to Jenkins Training v2 Code Pipeline Nov 2022-11-23...</h2>
+<h2> Test 2: run! Hello World! Welcome to Jenkins Training v2 Code Pipeline Nov 2022-11-23...</h2>
 </body>
 </html>
